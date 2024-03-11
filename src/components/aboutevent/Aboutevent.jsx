@@ -48,7 +48,7 @@ const Aboutevent = () => {
         <div className="aboutContent">
           <h1 className="aboutHeading">About Us</h1>
           <p className="aboutPara">
-            DevKraft is a student-founded club on a mission to transform the
+            Avinya is a student-founded club on a mission to transform the
             engineering experience. We're dedicated to fostering a vibrant
             coding culture, making learning enjoyable, promoting holistic
             student development and help forge lasting connections with seniors
