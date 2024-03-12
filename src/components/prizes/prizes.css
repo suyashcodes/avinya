@@ -15,7 +15,7 @@
 .prizes-title {
   text-align: center;
   font-size: 70px !important;
-  color: rgb(251, 112, 62);
+  color: #84f0ff;
   font-family: myFont;
   margin: 40px 0;
 }
@@ -37,25 +37,25 @@
   border-radius: 10px;
   margin-right: 20px;
   padding: 10px;
-  border: 2px solid rgb(251, 112, 62);
+  border: 2px solid #84f0ff;
 }
 
 .prizes-img {
   height: 200px;
   width: 200px;
   object-fit: cover;
-  border-bottom: 2px solid rgb(251, 112, 62);
+  border-bottom: 2px solid #84f0ff;
 }
 
 .prizes-amount {
   /* font-size: 20px; */
-  color: rgb(251, 112, 62);
+  color: #84f0ff;
   /* font-family: myFont; */
   padding: 10px 0 0 0;
   text-overflow: unset;
   text-align: center;
   margin: 0;
-  /* border-top: 2px solid rgb(251, 112, 62); */
+  /* border-top: 2px solid #84f0ff; */
 }
 @media (max-width: 768px) {
   .prizes {
