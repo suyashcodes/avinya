@@ -7,7 +7,7 @@ const Contact = () => {
     <div className="contact" id="contact">
       <img
         className="contact-img"
-        src="./assets/Eventtrans.png"
+        src="./assets/avinyalogo2.png"
         alt="contact"
       />
       <div className="contact-container">
@@ -21,7 +21,8 @@ const Contact = () => {
             <img className="icon" src="./assets/email2.png" alt="location" />
           </a>
           <a
-            href={"https://maps.app.goo.gl/HUxbgwq2RbhivCJR6"}
+            href={"avinya-dit.vercel.app"}
+            // href={"https://maps.app.goo.gl/HUxbgwq2RbhivCJR6"}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -59,7 +60,7 @@ const Contact = () => {
             <img className="icon" src="./assets/linkedin2.png" alt="location" />
           </a>
         </div>
-        <h3 className="copyright">Design and Developed by Devkraft &copy;</h3>
+        <h3 className="copyright">Design and Developed by Avinya &copy;</h3>
       </div>
     </div>
   );
