@@ -496,3 +496,6 @@ partii:hover {
     margin-top: 80px;
   }
 }
+.timingCont:last-child {
+  left: 0px;
+}

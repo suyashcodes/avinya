@@ -21,9 +21,9 @@ const Home = () => {
       <Domain />
       <Schedule />
       <Prizes />
-      <Sponsors />
-      <Eventteam />
-      <Faques />
+      {/* <Sponsors /> */}
+      {/* <Eventteam /> */}
+      {/* <Faques /> */}
       <Contact />
     </>
   );

@@ -78,7 +78,7 @@ const Navbar = () => {
                 Prizes
               </a>
             </li>
-            <li>
+            {/* <li>
               <a
                 href="#sponsors"
                 onClick={closeSidebar}
@@ -87,8 +87,8 @@ const Navbar = () => {
               >
                 Sponsors
               </a>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <a
                 onClick={closeSidebar}
                 href="#team"
@@ -107,7 +107,7 @@ const Navbar = () => {
               >
                 FAQ
               </a>
-            </li>
+            </li> */}
             <li>
               <a
                 href="#contact"
@@ -161,16 +161,8 @@ const Navbar = () => {
                 Prizes
               </a>
             </li>
-            <li>
-              <a
-                href="#sponsors"
-                className="navLinks"
-                activeClassName="activeLink"
-              >
-                Sponsors
-              </a>
-            </li>
-            <li>
+           /
+            {/* <li>
               <a href="#team" className="navLinks" activeClassName="activeLink">
                 Team
               </a>
@@ -179,7 +171,7 @@ const Navbar = () => {
               <a href="#faq" className="navLinks" activeClassName="activeLink">
                 FAQ
               </a>
-            </li>
+            </li> */}
             <li>
               <a
                 href="#contact"

@@ -12,56 +12,20 @@ const Contact = () => {
       />
       <div className="contact-container">
         <h1 className="contact-heading">Contact</h1>
-        <div className="contact-info">
-          <a
-            href={"mailto:devkraftclub@gmail.com"}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img className="icon" src="./assets/email2.png" alt="location" />
-          </a>
-          <a
-            href={"avinya-dit.vercel.app"}
-            // href={"https://maps.app.goo.gl/HUxbgwq2RbhivCJR6"}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img className="icon" src="./assets/l2.png" alt="location" />
-          </a>
-          <a
-            href={"tel:+919922026188"}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img className="icon" src="./assets/call2.png" alt="location" />
-          </a>
+        <div className="cont">
+          <h2 className="cnthead">Faculty Coordinators</h2>
+          <h4 className="name">Prof. Jameer Kotwal</h4>
+          <h4 className="name">9403184279</h4>
+          <h4 className="name">Prof. Shweta Koparde</h4>
+          <h4 className="name">9960614717</h4>
+          <h2 className="cnthead">Student Coordinators</h2>
+          <h4 className="name">Tanishka Dhole</h4>
+          <h4 className="name">8605702805</h4>
+          <h4 className="name">Rahul Pandit</h4>
+          <h4 className="name">9004803364</h4>
         </div>
-        <h1 className="contact-heading">Social</h1>
-        <div className="contact-info">
-          <a
-            href={"https://bit.ly/3vNNbkZ"}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img className="icon" src="./assets/whtsp3.png" alt="location" />
-          </a>
-          <a
-            href={"mailto:devkraftclub@gmail.com"}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img className="icon" src="./assets/email2.png" alt="location" />
-          </a>
-          <a
-            href={"https://www.linkedin.com/company/dev-kraft/mycompany/"}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img className="icon" src="./assets/linkedin2.png" alt="location" />
-          </a>
-        </div>
-        <h3 className="copyright">Design and Developed by Avinya &copy;</h3>
-      </div>
+        <h3 className="copyright">Design and Developed by Avinya &copy; 2024</h3>
+    </div>
     </div>
   );
 };

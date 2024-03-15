@@ -68,12 +68,12 @@
   font-size: 18px;
   /* padding: 0 15px; */
   position: relative;
-  left: 10px;
-  right: 15px;
+  /* left: 10px;
+  right: 15px; */
 }
 
 .timingCont:last-child {
-  left: -13px;
+  left: 0px;
 }
 
 .timingText {

@@ -9,12 +9,10 @@ const Aboutevent = () => {
         <div className="eventSection">
           <h1 className="eventHeading">About Event</h1>
           <p className="eventPara">
-            Get ready for an exhilarating hackathon experience at DEVCLASH Our
-            event is a celebration of creativity, coding prowess, and teamwork.
-            Join us on 10FEB to 11FEB for an unforgettable journey. Explore the
-            world of technology, showcase your skills, and vie for incredible
-            prizes. Let's innovate, collaborate, and create something
-            extraordinary!
+          Avinya a State
+Level Project Exhibition/Competition organized by the Computer Department of DIT, Pimpri. Avinya is aimed at fostering innovation, creativity, and technological excellence
+among students. It serves as a platform for aspiring engineers to showcase their ideas,
+& solutions to real-world problems.
           </p>
         </div>
         <div className="eventSection withLocation">
@@ -48,15 +46,8 @@ const Aboutevent = () => {
         <div className="aboutContent">
           <h1 className="aboutHeading">About Us</h1>
           <p className="aboutPara">
-            Avinya is a student-founded club on a mission to transform the
-            engineering experience. We're dedicated to fostering a vibrant
-            coding culture, making learning enjoyable, promoting holistic
-            student development and help forge lasting connections with seniors
-            and industry mentors who can help guide you through your journey. We
-            also help students gain valuable industry insights in our expert
-            panel events, where technical experts host interactive Q&A sessions.
-            Furthermore, we provide a platform for the students to showcase
-            their tech prowess in our technical challenge-based events.
+          
+Welcome to Dr. D. Y. Patil Institute of Technology (DIT), Pimpri, Pune. The oldest campus of Dr. D. Y. Patil group of Institutions. This campus is started in year 1983 and further nurtured by our visionary Chairman Hon’ble Dr. P. D. Patil with the vision Empowerment through knowledge Better Education Better World. The institute is being progressed under the dynamic leadership of Hon’ble Dr. Somnath Patil. This institute is awarded Best College Award by Savitribai Phule Pune University. The Institute is ranked in top 200 Engineering Institutions in India including IIT’s and NIT’s in NIRF ranking framework by MHRD, Government of India. The institute is Accredited by NAAC with a CGPA of 3.74 on a four point scale at 'A++' Grade.
           </p>
         </div>
         <div className="aboutImg">

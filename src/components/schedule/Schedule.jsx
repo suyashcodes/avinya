@@ -8,21 +8,21 @@ const Schedule = () => {
         <div className="scheduleContent">
           <div className="scheduleContentDate">
             <h1 className="scheduleContentDateCont">27</h1>
-            <h1 className="scheduleContentDateCont">JAN</h1>
+            <h1 className="scheduleContentDateCont">March</h1>
           </div>
           <div className="scheduleContentDetails">
             <h3 className="scheduleContentDetailsTitle">Registration opens</h3>
             <p className="scheduleContentDetailsText">
               On this day, the registration portal will open for team leaders to
               enroll themselves and their respective teams. Teams should ensure
-              timely registration to secure their spot in the hackathon.
+              timely registration to secure their spot in the avinya project exibition/competition.
             </p>
           </div>
         </div>
         <div className="scheduleContent">
           <div className="scheduleContentDate">
-            <h1 className="scheduleContentDateCont">8</h1>
-            <h1 className="scheduleContentDateCont">FEB</h1>
+            <h1 className="scheduleContentDateCont">7</h1>
+            <h1 className="scheduleContentDateCont">April</h1>
           </div>
           <div className="scheduleContentDetails">
             <h3 className="scheduleContentDetailsTitle">
@@ -85,19 +85,19 @@ const Schedule = () => {
         </div> */}
         <div className="scheduleContent">
           <div className="scheduleContentDate">
-            <h1 className="scheduleContentDateCont">10</h1>
-            <h1 className="scheduleContentDateCont">FEB</h1>
+            <h1 className="scheduleContentDateCont">13</h1>
+            <h1 className="scheduleContentDateCont">April</h1>
           </div>
           <div className="scheduleContentDetails">
-            <h3 className="scheduleContentDetailsTitle">Hackathon Kickoff</h3>
+            <h3 className="scheduleContentDetailsTitle">Event Day</h3>
             <p className="scheduleContentDetailsDesc">
-              The official commencement of the hackathon! Participants can start
-              working on their projects. Resources, guidelines, and support will
-              be provided to ensure a smooth start to the coding journey.
+              The official commencement of the Avinya! Participants can start
+              show their projects. Guidelines, and support will
+              be provided to ensure a smooth execution of competition.
             </p>
           </div>
         </div>
-        <div className="scheduleContent">
+        {/* <div className="scheduleContent">
           <div className="scheduleContentDate">
             <h1 className="scheduleContentDateCont">11</h1>
             <h1 className="scheduleContentDateCont">FEB</h1>
@@ -126,7 +126,7 @@ const Schedule = () => {
               change based on project complexity. Stay tuned for updates.
             </p>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );

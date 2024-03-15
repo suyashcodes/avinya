@@ -13,8 +13,8 @@
 }
 
 .contact-heading {
-  font-size: 32px;
-  color: rgb(251, 112, 62);
+  font-size: 36px;
+  color: #84f0ff;
   font-family: myFont;
   text-align: center;
 }
@@ -62,4 +62,21 @@
 } */
 .copyright {
   color: white;
+}
+.contact-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cnthead{
+  color: antiquewhite;
+  text-align: center;
+}
+.name{
+  text-align: center;
+  color: azure;
+  padding: 0;
+  margin: 0;
 }
