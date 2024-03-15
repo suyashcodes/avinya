@@ -7,7 +7,7 @@ const Schedule = () => {
       <div className="scheduleContainer">
         <div className="scheduleContent">
           <div className="scheduleContentDate">
-            <h1 className="scheduleContentDateCont">29</h1>
+            <h1 className="scheduleContentDateCont">27</h1>
             <h1 className="scheduleContentDateCont">JAN</h1>
           </div>
           <div className="scheduleContentDetails">

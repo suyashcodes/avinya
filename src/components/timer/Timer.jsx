@@ -11,11 +11,8 @@ const Timer = () => {
     seconds: 0,
   });
   const [hackathonStarted, setHackathonStarted] = useState(false);
-  const [showProblems, setShowProblems] = useState(false);
-  const [showSubmission, setShowSubmission] = useState(false);
-
   useEffect(() => {
-    const registrationDeadline = new Date("2024-02-10T10:00:00");
+    const registrationDeadline = new Date("2024-04-13T10:00:00");
 
     const calculateTimeRemaining = () => {
       const currentTime = new Date();
@@ -75,7 +72,7 @@ const Timer = () => {
       </div>
       {/* <h1 className="slogan">PUNE'S BIGGEST TECH CLASH</h1> */}
 
-          <h1 className="slogan">PUNE'S BIGGEST TECH CLASH</h1>
+          <h1 className="slogan">STATE LEVEL PROJECT COMPETITION</h1>
 
           <div className="timerContainer">
             <div className="timerCont">
@@ -99,10 +96,10 @@ const Timer = () => {
             <a
               className="partii"
               target="_blank"
-              href="https://docs.google.com/forms/d/e/1FAIpQLSdetrl2h7xCSDs7yo3NeaPh0e1Y2dFvY2o3PwrgIHZ_ILG0wQ/viewform?usp=sf_link"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSckckQ9v4Sm96MrMhnitGkr8y8yicxIQlWHFYN75uO16-fxFQ/viewform?usp=send_form"
               rel="noreferrer"
             >
-              <button className="registerButton1">Participate Now</button>
+              <button className="registerButton1">Register Now</button>
             </a>
           </div>
   
